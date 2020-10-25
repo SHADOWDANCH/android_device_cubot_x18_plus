@@ -1,0 +1,8 @@
+[
+  {
+    "remote":      "github",
+    "repository":  "SHADOWDANCH/p0_kernel_cubot_x18_plus",
+    "target_path": "kernel/CUBOT/CUBOT_X18_Plus",
+    "revision":    "master"
+  }
+] 
